@@ -1,4 +1,4 @@
-________________________|  [首页](https://andysun06.github.io/noip-zcyqsxz/)  |  团队题目  |  团队比赛  |  官方通知  |________________________
+-——————————|  [首页](https://andysun06.github.io/noip-zcyqsxz/)  |  [团队题目](https://andysun06.github.io/noip-zcyqsxz-tdtm/)  |  [团队比赛]()  |  [官方通知]()  |——————————-
 
 ## 关于此网站：
 
