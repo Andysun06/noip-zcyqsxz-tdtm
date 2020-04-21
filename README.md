@@ -17,4 +17,4 @@
 |T128731|[「ZC-2」B](https://www.luogu.com.cn/problem/T128731) |比赛赛题|暂无|
 |T129441|[「ZC-2」C](https://www.luogu.com.cn/problem/T129441) |比赛赛题|暂无|
 |T129597|[「ZC-2」A](https://www.luogu.com.cn/problem/T129597) |比赛赛题|暂无|
-|T129597|[圆](https://www.luogu.com.cn/problem/T130951) |仅团队可见|[链接](https://www.luogu.com.cn/paste/y7eaufyf)|
+|T129597|[圆](https://www.luogu.com.cn/problem/T130951) |仅团队可见|[这里](https://www.luogu.com.cn/paste/y7eaufyf)|
